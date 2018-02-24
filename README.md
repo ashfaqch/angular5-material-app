@@ -11,7 +11,7 @@
 
 ## Application is generated with:
 * [Angular CLI](https://cli.angular.io) `Angular CLI`
-* [Angular CLI](https://material.angular.io) `Angular Material`
+* [Angular Material](https://material.angular.io) `Angular Material`
 
 ## Running the Application
 1. Run `npm install`
