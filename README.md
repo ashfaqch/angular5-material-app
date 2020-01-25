@@ -4,10 +4,11 @@
 
 [![dependency Status](https://david-dm.org/ashfaqch/angular5-material-app.svg)](https://david-dm.org/ashfaqch/angular5-material-app#info=dependencies)
 [![devDependency Status](https://david-dm.org/ashfaqch/angular5-material-app/dev-status.svg)](https://david-dm.org/ashfaqch/angular5-material-app#info=devDependencies)
-[![peerDependencies Status](https://david-dm.org/ashfaqch/angular5-material-app/peer-status.svg)](https://david-dm.org/ashfaqch/angular5-material-app?type=peer)
 
 [![GitHub forks](https://img.shields.io/github/forks/ashfaqch/angular5-material-app.svg?style=social&label=Fork)](https://github.com/ashfaqch/angular5-material-app/fork)
 [![GitHub stars](https://img.shields.io/github/stars/ashfaqch/angular5-material-app.svg?style=social&label=Star)](https://github.com/ashfaqch/angular5-material-app)
+
+[Demo](https://stackblitz.com/github/ashfaqch/angular5-material-app)
 
 ## Application is generated with:
 * [Angular CLI](https://cli.angular.io) `Angular CLI`
